@@ -13,6 +13,13 @@ You have to install any version of python3. I used python 3.6
 
 ## snapshots
 
-### After running game file( Home Screen)
+### After running game file(Game Home Screen)
+![homepage snap](https://github.com/Vikas-ML/NUMPUZZ/blob/main/Untitled.png)
 
 ### Level 2
+![homepage snap](https://github.com/Vikas-ML/NUMPUZZ/blob/main/Untitled2.png)
+
+## future work
+1-Convert this Game CUI to Attractive GUI based Game.
+
+2- Add timer and counter to count the how many time box moved to win the game.
